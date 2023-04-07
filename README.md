@@ -29,4 +29,4 @@ Create a program that simulates a car rental system where customers can reserve 
 Create a program that manages employee information such as job titles, salaries, and performance evaluations.
 A
 10.	Game Development: Create a game using object-oriented programming where you can simulate player movement, collisions, and game logic.
-![image](https://user-images.githubusercontent.com/114938804/230613562-e6acac9f-a9b1-4866-b8f2-7e5ca1e94bdb.png)
+
